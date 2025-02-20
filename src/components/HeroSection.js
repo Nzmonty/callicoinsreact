@@ -7,8 +7,8 @@ import '../App.css';
 function HeroSection() {
     return (
     <div className='hero-container'>
-        <video src='/CalliCoinsStorage/Video2.mp4'
-        autoPlay loop muted />
+        {/* <video src='/CalliCoinsStorage/Video2.mp4'
+        autoPlay loop muted /> */}
         <h1>PROFIT AWAITS</h1>
         <p>Don't miss out...</p>
         <div className='hero-btns'>
