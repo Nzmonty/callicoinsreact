@@ -9,24 +9,24 @@ function HeroSection() {
     <div className='hero-container'>
         {/* <video src='/CalliCoinsStorage/Video2.mp4'
         autoPlay loop muted /> */}
-        <h1>PROFIT AWAITS</h1>
+        <h1>WELCOME</h1>
         <p>Don't miss out...</p>
         <div className='hero-btns'>
-            <Button 
+            {/* <Button 
                 className='btns' 
                 buttonStyle='btn--outline' 
                 buttonSize='btn--large'>
                     GET STARTED
-            </Button>
+            </Button> */}
             <Button 
                 className='btns' 
                 buttonStyle='btn--primary' 
-                buttonSize='btn--large'
-                onClick={console.log('hey')}>
-                    INVEST NOW 
-                <i className='far fa-play-circle' />
+                buttonSize='btn--large'>
+                    Visit the Market &nbsp;
+                <i className='fa-solid fa-store' />
             </Button>
         </div>
+        <h3><br />or scroll down to <br />view more information on Calli Coin </h3>
     </div>
     );
 }
