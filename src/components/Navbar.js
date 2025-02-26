@@ -42,7 +42,7 @@ function Navbar() {
                             </Link>
                         </li>
                         <li className='nav-item'>
-                            <Link to='/market' className='nav-links' onClick={closeMobileMenu}>
+                            <Link to='/callicoinsreact/market' className='nav-links' onClick={closeMobileMenu}>
                             MARKET
                             </Link>
                         </li>
@@ -62,7 +62,7 @@ function Navbar() {
                             </Link>
                         </li>
                     </ul>
-                    {button && <Button buttonStyle='btn--outline'>ACCOUNT</Button>}
+                    {/* {button && <Button buttonStyle='btn--outline'>ACCOUNT</Button>} */}
                 </div>
             </nav>
         </>

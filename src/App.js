@@ -16,7 +16,7 @@ function App() {
         <Navbar />
         <Routes> 
           <Route path='/' element={ <Home /> } />
-          <Route path='/market' element={ <Market /> } />
+          <Route path='/callicoinsreact/market' element={ <Market /> } />
           <Route path='/wallet' element={ <Wallet /> } />
           <Route path='/stash' element={ <Stash /> } />
           <Route path='/account' element={ <Account /> } />
