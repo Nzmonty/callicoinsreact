@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/callicoinsreact/static/css/main.ec6d71c7.css",
+    "main.js": "/callicoinsreact/static/js/main.7c1404a1.js",
+    "static/media/image-party.JPEG": "/callicoinsreact/static/media/image-party.1efecd1d071bc282538e.JPEG",
+    "index.html": "/callicoinsreact/index.html",
+    "main.ec6d71c7.css.map": "/callicoinsreact/static/css/main.ec6d71c7.css.map",
+    "main.7c1404a1.js.map": "/callicoinsreact/static/js/main.7c1404a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec6d71c7.css",
+    "static/js/main.7c1404a1.js"
+  ]
+}
